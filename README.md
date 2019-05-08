@@ -17,3 +17,6 @@ Java Projekt mit IntelliJ Ultimate einrichten
 <img src="./Bilder/IDE_7.jpg">    
 <img src="./Bilder/IDE_8.jpg">    
 <img src="./Bilder/IDE_9.jpg">    
+
+In der IDE dann Strg+Umschalt+F10 Drücken damit wird das projekt    
+ausgefürt
