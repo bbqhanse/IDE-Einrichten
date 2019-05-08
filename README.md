@@ -1,8 +1,15 @@
 # IDE-Einrichten
-Java Projekt mit IntelliJ Ultimate einrichten
+Java Projekt mit IntelliJ Ultimate einrichten   
 <img src="/Bilder/GitHub URL.jpg">
-<br />
-<img src="./Bilder/Clone_Projekt.jpg">
-<br />
-<img src="./Bilder/Clone Projekt_1.jpg">
+
+<br />   
+<img src="./Bilder/Clone_Projekt.jpg">   
+<br />   
+<img src="./Bilder/Clone Projekt_1.jpg">  
+
+<img src="./Bilder/IDE.jpg">   
+<img src="./Bilder/IDE_1.jpg">    
+<img src="./Bilder/IDE_2.jpg">    
+<img src="./Bilder/IDE_3.jpg">    
+
 
